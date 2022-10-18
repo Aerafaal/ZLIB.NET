@@ -5,17 +5,18 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-        <Title>ZLib.Portable</Title>
+        <Title>ZLIB.NET</Title>
         <Authors>Aerafaal</Authors>
         <Description>ZLIB.NET is a 100% managed version of ZLIB compression library which implements deflate and inflate compression algorithms.</Description>
         <Copyright>© 2022 Aerafaal</Copyright>
-        <PackageProjectUrl>https://github.com/Aerafaal/ZLib.Portable</PackageProjectUrl>
-        <PackageLicenseUrl>https://github.com/Aerafaal/ZLib.Portable/LICENSE</PackageLicenseUrl>
+        <PackageProjectUrl>https://github.com/Aerafaal/ZLIB.NET</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/Aerafaal/ZLIB.NET/blob/main/LICENSE</PackageLicenseUrl>
         <PackageIcon>zlib.png</PackageIcon>
-        <RepositoryUrl>https://github.com/Aerafaal/ZLib.Portable</RepositoryUrl>
+        <RepositoryUrl>https://github.com/Aerafaal/ZLIB.NET</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
         <PackageTags>zlib compression deflate zip gzip</PackageTags>
         <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+        <PackageId>Aerafaal.ZLIB.NET</PackageId>
     </PropertyGroup>
 
     <ItemGroup>
